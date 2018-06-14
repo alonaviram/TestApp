@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "48359849949",
+    "firebase_url": "https://languages-1528374493552.firebaseio.com",
+    "project_id": "languages-1528374493552",
+    "storage_bucket": "languages-1528374493552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48359849949:android:5a39e8bc9f644595",
+        "android_client_info": {
+          "package_name": "com.example.omer.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48359849949-uqksssr2mj9gu8m5ba4bmgb5be6g1o7b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "48359849949-uqksssr2mj9gu8m5ba4bmgb5be6g1o7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0Vv45no9GANmw4irxpuB2JCUV9B9_h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
